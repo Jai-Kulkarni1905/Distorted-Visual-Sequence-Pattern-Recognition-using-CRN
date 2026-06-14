@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# IDE Files
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Model Files
+*.pth
+*.pt
+*.ckpt
+
+# Logs
+*.log
+
+# Dataset Files
+cig_ps/
+train_images/
+test_images/
+images/
+dataset/
+data/
+
+# CSV Outputs
+submission_JAI_23119015*.csv
+
+# Temporary Files
+temp/
+tmp/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Python Packaging
+build/
+dist/
+*.egg-info/
+
+# Cache
+.cache/
