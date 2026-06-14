@@ -24,7 +24,7 @@ The complete workflow includes:
 ## Dataset
 
 The dataset consists of grayscale CAPTCHA images and corresponding text labels.
-
+The link to the dataset : https://drive.google.com/drive/folders/1lRUA-1uCCXfks8kpypFV-4f0UepWoLkU?usp=sharing
 ### Training Set
 - CAPTCHA images
 - Ground truth text labels
