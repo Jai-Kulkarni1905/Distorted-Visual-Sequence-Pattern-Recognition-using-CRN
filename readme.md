@@ -93,8 +93,9 @@ The notebook includes:
 
 ```text
 ├── notebook_jai_23119015.ipynb
-├── train_images/
-├── test_images/
-├── train-labels.csv
+├── cig_ps/
+    ├── train_images/  
+    ├── test_images/
+    ├── train-labels.csv
 ├── submission.csv
 └── README.md
